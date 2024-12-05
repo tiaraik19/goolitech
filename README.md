@@ -2,7 +2,7 @@
 
 Golitech is an individual project for the Human-Computer Interaction course. This project showcases an e-commerce website specializing in gaming gear with an emphasis on intuitive design and user experience. The website's design was created using Figma and implemented with HTML, CSS, and JavaScript.
 
-*Features*
+⌨️Features
 1. Product Categories
 Browse various categories of gaming gear, such as mouse, keyboards, headphone, webcam, and speakers.
 Simplified navigation ensures users can quickly find the products they need.
@@ -16,7 +16,7 @@ Emphasis on transparency and a commitment to the gaming community.
 Find offline stores easily with a detailed location page.
 Includes maps and contact information for a smooth in-store experience.
 
-*Tech Stack*
+💻Tech Stack
 Figma: UI/UX design.
 HTML: Markup structure of the website.
 CSS: Styling and layout for a visually appealing interface.
