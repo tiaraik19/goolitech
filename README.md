@@ -1,4 +1,4 @@
-#GOLITECH
+# GOLITECH
 
 Golitech is an individual project for the Human-Computer Interaction course. This project showcases an e-commerce website specializing in gaming gear with an emphasis on intuitive design and user experience. The website's design was created using Figma and implemented with HTML, CSS, and JavaScript.
 
